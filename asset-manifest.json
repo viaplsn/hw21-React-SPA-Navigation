@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hw21-React-SPA-Navigation/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/hw21-React-SPA-Navigation/static/js/main.bf239ec2.chunk.js",
+    "main.js.map": "/hw21-React-SPA-Navigation/static/js/main.bf239ec2.chunk.js.map",
+    "runtime-main.js": "/hw21-React-SPA-Navigation/static/js/runtime-main.63a37e95.js",
+    "runtime-main.js.map": "/hw21-React-SPA-Navigation/static/js/runtime-main.63a37e95.js.map",
+    "static/js/2.151c27c6.chunk.js": "/hw21-React-SPA-Navigation/static/js/2.151c27c6.chunk.js",
+    "static/js/2.151c27c6.chunk.js.map": "/hw21-React-SPA-Navigation/static/js/2.151c27c6.chunk.js.map",
+    "static/js/3.70a6b966.chunk.js": "/hw21-React-SPA-Navigation/static/js/3.70a6b966.chunk.js",
+    "static/js/3.70a6b966.chunk.js.map": "/hw21-React-SPA-Navigation/static/js/3.70a6b966.chunk.js.map",
+    "index.html": "/hw21-React-SPA-Navigation/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/hw21-React-SPA-Navigation/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.151c27c6.chunk.js.LICENSE.txt": "/hw21-React-SPA-Navigation/static/js/2.151c27c6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hw21-React-SPA-Navigation/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63a37e95.js",
+    "static/js/2.151c27c6.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.bf239ec2.chunk.js"
+  ]
+}
