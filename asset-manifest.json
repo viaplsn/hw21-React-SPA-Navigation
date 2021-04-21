@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/hw21-React-SPA-Navigation/static/css/main.e4fc0c7a.chunk.css",
-    "main.js": "/hw21-React-SPA-Navigation/static/js/main.2338db17.chunk.js",
-    "main.js.map": "/hw21-React-SPA-Navigation/static/js/main.2338db17.chunk.js.map",
-    "runtime-main.js": "/hw21-React-SPA-Navigation/static/js/runtime-main.0a61384c.js",
-    "runtime-main.js.map": "/hw21-React-SPA-Navigation/static/js/runtime-main.0a61384c.js.map",
-    "static/js/2.682e16c3.chunk.js": "/hw21-React-SPA-Navigation/static/js/2.682e16c3.chunk.js",
-    "static/js/2.682e16c3.chunk.js.map": "/hw21-React-SPA-Navigation/static/js/2.682e16c3.chunk.js.map",
-    "static/js/3.7588e269.chunk.js": "/hw21-React-SPA-Navigation/static/js/3.7588e269.chunk.js",
-    "static/js/3.7588e269.chunk.js.map": "/hw21-React-SPA-Navigation/static/js/3.7588e269.chunk.js.map",
+    "main.css": "/hw21-React-SPA-Navigation/static/css/main.8efdc026.chunk.css",
+    "main.js": "/hw21-React-SPA-Navigation/static/js/main.5e4c2cf3.chunk.js",
+    "main.js.map": "/hw21-React-SPA-Navigation/static/js/main.5e4c2cf3.chunk.js.map",
+    "runtime-main.js": "/hw21-React-SPA-Navigation/static/js/runtime-main.1d6d3f70.js",
+    "runtime-main.js.map": "/hw21-React-SPA-Navigation/static/js/runtime-main.1d6d3f70.js.map",
+    "static/js/2.bdeb643c.chunk.js": "/hw21-React-SPA-Navigation/static/js/2.bdeb643c.chunk.js",
+    "static/js/2.bdeb643c.chunk.js.map": "/hw21-React-SPA-Navigation/static/js/2.bdeb643c.chunk.js.map",
+    "static/js/3.64a463ea.chunk.js": "/hw21-React-SPA-Navigation/static/js/3.64a463ea.chunk.js",
+    "static/js/3.64a463ea.chunk.js.map": "/hw21-React-SPA-Navigation/static/js/3.64a463ea.chunk.js.map",
     "index.html": "/hw21-React-SPA-Navigation/index.html",
-    "static/css/main.e4fc0c7a.chunk.css.map": "/hw21-React-SPA-Navigation/static/css/main.e4fc0c7a.chunk.css.map",
-    "static/js/2.682e16c3.chunk.js.LICENSE.txt": "/hw21-React-SPA-Navigation/static/js/2.682e16c3.chunk.js.LICENSE.txt",
+    "static/css/main.8efdc026.chunk.css.map": "/hw21-React-SPA-Navigation/static/css/main.8efdc026.chunk.css.map",
+    "static/js/2.bdeb643c.chunk.js.LICENSE.txt": "/hw21-React-SPA-Navigation/static/js/2.bdeb643c.chunk.js.LICENSE.txt",
     "static/media/BradleyBeal.41e08e9d.jpg": "/hw21-React-SPA-Navigation/static/media/BradleyBeal.41e08e9d.jpg",
     "static/media/Bugs-Bunny-profile-pic.6ee25c7e.png": "/hw21-React-SPA-Navigation/static/media/Bugs-Bunny-profile-pic.6ee25c7e.png",
     "static/media/DamianLillard.30764d6f.jpg": "/hw21-React-SPA-Navigation/static/media/DamianLillard.30764d6f.jpg",
@@ -42,9 +42,9 @@
     "static/media/woman-icon.29063164.svg": "/hw21-React-SPA-Navigation/static/media/woman-icon.29063164.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a61384c.js",
-    "static/js/2.682e16c3.chunk.js",
-    "static/css/main.e4fc0c7a.chunk.css",
-    "static/js/main.2338db17.chunk.js"
+    "static/js/runtime-main.1d6d3f70.js",
+    "static/js/2.bdeb643c.chunk.js",
+    "static/css/main.8efdc026.chunk.css",
+    "static/js/main.5e4c2cf3.chunk.js"
   ]
 }
