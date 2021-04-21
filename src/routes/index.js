@@ -2,6 +2,7 @@ import { Homepage } from "../pages/homepage";
 import { Photos } from "../pages/photos";
 import { Publications } from "../pages/publications";
 import { Contacts } from "../pages/contacts";
+import { singleContact } from "../pages/single-contact";
 
 export const appRoutes = [
     {
@@ -19,5 +20,29 @@ export const appRoutes = [
     {
         path: '/contacts',
         component: Contacts
+    },
+    {
+        path: '/Стинсовський',
+        component: singleContact
+    },
+    {
+        path: '/Щербатська',
+        component: singleContact
+    },
+    {
+        path: '/Анонімус',
+        component: singleContact
+    },
+    {
+        path: '/Олдровна',
+        component: singleContact
+    },
+    {
+        path: '/Еріксонян',
+        component: singleContact
+    },
+    {
+        path: '/Мотсбес',
+        component: singleContact
     }
 ]

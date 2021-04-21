@@ -47,6 +47,9 @@ label {
   align-items: center;
   border-bottom: 1px solid rgba(200, 200, 200, 0.5);
 }
+.contact-container:hover {
+  background-color:rgba(255, 255, 255, 0.5);
+}
 .firstName, .lastName, .phone, .gender {
   width: 25%;
 }
@@ -109,4 +112,12 @@ input[type="checkbox"]:focus:checked:not(:disabled):after{
 
 input[type="checkbox"]:disabled{
   opacity:0.5;
+}
+
+.contact__link {
+  text-decoration: none;
+  color: black;
+}
+.contact__link:visited {
+  color: black;
 }

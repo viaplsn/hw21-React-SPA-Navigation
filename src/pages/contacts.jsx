@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Contact from '../components/contact.jsx'
 
 import '../assets/css/contacts.css'
+import { Link } from 'react-router-dom';
 
 export const contacts = [{
     firstName: "Барней",
@@ -149,7 +150,16 @@ export class Contacts extends Component {
                     <label htmlFor="undefied-checkbox">Unknown</label>
                 </div>
                 {this.state.contacts.map(item => (
-                    <Contact firstName={item.firstName} lastName={item.lastName} phone={item.phone} gender={item.gender} key={item.lastName}/>
+                    <Link to={{
+                        pathname: item.lastName, 
+                        state: {
+                            firstName: item.firstName,
+                            lastName: item.lastName,
+                            phone: item.phone,
+                            gender: item.gender
+                            }}} key={item.lastName} className="contact__link">
+                        <Contact firstName={item.firstName} lastName={item.lastName} phone={item.phone} gender={item.gender} key={item.lastName}/>
+                    </Link>
                 ))}
             </div>
         )
