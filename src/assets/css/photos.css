@@ -1,0 +1,33 @@
+.photos__container {
+    display: flex;
+    justify-content: center;
+}
+.photos__feed {
+    min-height: 100vh;
+    padding: 20px 0;
+    width: 75%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    border-left: 1px solid rgba(101, 101, 101, 0.5);
+    border-right: 1px solid rgba(101, 101, 101, 0.5);
+    background: rgba(255, 255, 255, 0.2);
+}
+.photos__feed:hover {
+    background: rgba(255, 255, 255, 0.5);
+}
+.image__container {
+    width: 30%;
+}
+.photo__post {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    transition: all 0.2s linear;
+}
+.photo__post:hover {
+    cursor: pointer;
+    filter: brightness(0.8);
+}

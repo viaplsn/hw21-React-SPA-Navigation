@@ -1,0 +1,29 @@
+.nav {
+    height: 6vh;
+    padding: 15px;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 18px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(101, 101, 101, 0.5);
+    color: black;
+}
+.nav a {
+    min-width: 15%;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+}
+.nav a:hover {
+    transform: scale(1.1);
+}
+.nav a:visited {
+    color: black;
+}
+.nav a:active {
+    color: #859398;
+}
