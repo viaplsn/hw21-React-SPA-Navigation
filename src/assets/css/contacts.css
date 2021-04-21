@@ -1,18 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap');
-/* *, *::before, *::after {
-  margin: 0;
-  box-sizing: border-box;
-  font-family: 'Comfortaa', sans-serif;
-  color: white;
-}
-body {
-  min-height: 100vh;
-  background: rgb(133,147,152);
-  background: linear-gradient(0deg, rgba(133,147,152,1) 0%, rgba(40,48,72,1) 100%);
-}
-main {
-  padding: 50px;
-} */
+
 .contacts-container {
   height: 100%;
   font-family: 'Comfortaa', sans-serif;

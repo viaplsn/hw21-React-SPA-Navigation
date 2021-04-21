@@ -3,7 +3,7 @@ import Contact from '../components/contact.jsx'
 
 import '../assets/css/contacts.css'
 
-const contacts = [{
+export const contacts = [{
     firstName: "Барней",
     lastName: "Стинсовський",
     phone: "+380956319521",

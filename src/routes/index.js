@@ -5,8 +5,7 @@ import { Contacts } from "../pages/contacts";
 
 export const appRoutes = [
     {
-        path: '/',
-        exact: true,
+        path: '/hw21-React-SPA-Navigation',
         component: Homepage
     },
     {

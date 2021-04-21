@@ -4,7 +4,7 @@ import '../assets/css/nav.css'
 
 const links = [
     {
-        to: "/",
+        to: "/hw21-React-SPA-Navigation",
         label: "Homepage"
     },
     {

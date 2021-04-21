@@ -8,3 +8,8 @@ body {
     background: rgb(211,204,227);
     background: linear-gradient(0deg, rgba(211,204,227,1) 0%, rgba(233,228,240,1) 100%);
 }
+.noPage {
+    font-family: 'Comfortaa', sans-serif;
+    text-align: center;
+    margin-top: 25px;
+}

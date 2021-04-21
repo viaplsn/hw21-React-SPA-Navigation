@@ -16,7 +16,7 @@ function App() {
             <Route key={route.path} {...route} />
           ))}
           <Route path="*">
-            <h1>No page found</h1>
+            <h1 className="noPage">No page found</h1>
           </Route>
         </Switch>
       </main>
