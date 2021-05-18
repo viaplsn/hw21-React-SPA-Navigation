@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hw21-React-SPA-Navigation/static/css/main.8efdc026.chunk.css",
-    "main.js": "/hw21-React-SPA-Navigation/static/js/main.5e4c2cf3.chunk.js",
-    "main.js.map": "/hw21-React-SPA-Navigation/static/js/main.5e4c2cf3.chunk.js.map",
+    "main.js": "/hw21-React-SPA-Navigation/static/js/main.cbd97b1b.chunk.js",
+    "main.js.map": "/hw21-React-SPA-Navigation/static/js/main.cbd97b1b.chunk.js.map",
     "runtime-main.js": "/hw21-React-SPA-Navigation/static/js/runtime-main.1d6d3f70.js",
     "runtime-main.js.map": "/hw21-React-SPA-Navigation/static/js/runtime-main.1d6d3f70.js.map",
     "static/js/2.bdeb643c.chunk.js": "/hw21-React-SPA-Navigation/static/js/2.bdeb643c.chunk.js",
@@ -45,6 +45,6 @@
     "static/js/runtime-main.1d6d3f70.js",
     "static/js/2.bdeb643c.chunk.js",
     "static/css/main.8efdc026.chunk.css",
-    "static/js/main.5e4c2cf3.chunk.js"
+    "static/js/main.cbd97b1b.chunk.js"
   ]
 }
